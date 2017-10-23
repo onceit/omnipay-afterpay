@@ -1,5 +1,5 @@
 {
-    "name": "warblemedia/omnipay-afterpay",
+    "name": "onceit/omnipay-afterpay",
     "description": "AfterPay gateway for Omnipay payment processing library",
     "keywords": [
         "omnipay",
@@ -7,7 +7,7 @@
         "gateway",
         "merchant"
     ],
-    "homepage": "https://github.com/warblemedia/omnipay-afterpay",
+    "homepage": "https://github.com/onceit/omnipay-afterpay",
     "license": "MIT",
     "authors": [
         {
